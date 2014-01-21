@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="16cm" height="13cm" viewBox="308 60 309 241" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g>
+		<rect style="fill: #ffffff" x="421.65" y="62" width="60.7" height="38"/>
+		<rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="421.65" y="62" width="60.7" height="38"/>
+		<text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="452" y="84.9">
+			<tspan x="452" y="84.9">Lobby</tspan>
+		</text>
+	</g>
+	<g>
+		<rect style="fill: #ffffff" x="408.45" y="262" width="87.1" height="38"/>
+		<rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="408.45" y="262" width="87.1" height="38"/>
+		<text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="452" y="284.9">
+			<tspan x="452" y="284.9">Parlament</tspan>
+		</text>
+	</g>
+	<g class="fragment">
+		<g>
+			<rect style="fill: #ffffff" x="309.225" y="162" width="63.55" height="38"/>
+			<rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="309.225" y="162" width="63.55" height="38"/>
+			<text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="341" y="184.9">
+				<tspan x="341" y="184.9">Presse</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="421.65,81 341,81 341,151 "/>
+			<polygon style="fill: #ffffff" points="336,151 341,161 346,151 "/>
+			<polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="336,151 341,161 346,151 "/>
+		</g>
+		<g>
+			<polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="341,200 341,281 397.45,281 "/>
+			<polygon style="fill: #ffffff" points="397.45,286 407.45,281 397.45,276 "/>
+			<polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="397.45,286 407.45,281 397.45,276 "/>
+		</g>
+	</g>
+  <g class="fragment">
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" x1="452" y1="100" x2="452" y2="251"/>
+    <polygon style="fill: #ffffff" points="447,251 452,261 457,251 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="447,251 452,261 457,251 "/>
+  </g>
+	<g class="fragment">
+		<g>
+			<ellipse style="fill: #ffffff" cx="561" cy="180" rx="54.8565" ry="27.4283"/>
+			<ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="561" cy="180" rx="54.8565" ry="27.4283"/>
+			<text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="561" y="183.9">
+				<tspan x="561" y="183.9">Ausschüsse</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="482.35,81 561,81 561,141.572 "/>
+			<polygon style="fill: #ffffff" points="556,141.572 561,151.572 566,141.572 "/>
+			<polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="556,141.572 561,151.572 566,141.572 "/>
+		</g>
+		<g>
+			<polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="561,218.428 561,281 506.55,281 "/>
+			<polygon style="fill: #ffffff" points="566,218.428 561,208.428 556,218.428 "/>
+			<polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="566,218.428 561,208.428 556,218.428 "/>
+			<polygon style="fill: #ffffff" points="506.55,276 496.55,281 506.55,286 "/>
+			<polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" points="506.55,276 496.55,281 506.55,286 "/>
+		</g>
+	</g>
+</svg>
