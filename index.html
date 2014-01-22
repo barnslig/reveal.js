@@ -124,7 +124,7 @@
 							<p>Zwei weitere Facetten ansehen</p>
 						</aside>
 					</section>
-					<section class="fuenfte-gewalt">
+					<section id="fuenfte-gewalt">
 						<aside class="notes">
 							<p>Für Leif nicht bloß neben dem Lobbyismus -> direkter Kontakt</p>
 							<p>Exklusivinformatiionen für <strong>agenda setting</strong> und <strong>agenda cutting</strong></p>
@@ -161,8 +161,7 @@
 						<p>Ministerposten können unattraktiv werden</p>
 						<p class="fragment">Übergangsgeld notwendig</p>
 					</section>
-					<section class="pro-politiker">
-					<!-- PARTEIEN!!1 -->
+					<section id="pro-politiker">
 						<h3 style="color:green">Pro</h3>
 						<aside class="notes">
 							<p>Kurt Beck, Roland Koch, Ole von Beust, Edmund Stoiber, Joschka Fischer, Gerhard Schröder, Otto Schily</p>
@@ -216,13 +215,13 @@
 					{ src: 'plugin/notes-server/client.js', async: true }
 				]
 			});
-
+			
 			$.get('data/fuenfte-gewalt.svg', function(data) {
-				$('.fuenfte-gewalt:first').prepend(data);
-			});
+				$('#fuenfte-gewalt').prepend(data);
+			}, 'text');
 			$.get('data/politiker.svg', function(data) {
-				$('.pro-politiker:first').prepend(data);
-			});
+				$('#pro-politiker').prepend(data);
+			}, 'text');				
 		</script>
 	</body>
 </html>
