@@ -15,6 +15,7 @@
 	font-weight: 400;
 	font-size: 2rem;
 	color: #000;
+	background: #fff;
 }
 
 /* headlines */
@@ -29,6 +30,7 @@
 .reveal h1.question {
 	font-size: 5rem;
 	line-height: 1.15;
+	color: #000;
 }
 .reveal h2 {
 	font-size: 3rem;
